@@ -84,6 +84,7 @@ Contains blog posts related to:
 * Database Integration
 * Comment System
 * Admin Dashboard
+  
 
 ## 👨‍💻 Author
 
@@ -94,3 +95,17 @@ Student Developer passionate about Web Development and Software Engineering.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+## 🌐 Live Demo
+
+Visit the live website here:
+
+**Live Site:** https://noor-ul-huda34.github.io/Mobile-app/
+
+## 🚀 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+To view the website online, click the link above or visit:
+
+https://noor-ul-huda34.github.io/Mobile-app/
+
